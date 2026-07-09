@@ -1,4 +1,4 @@
-# 🍏 Ncurses Fruit Ninja
+# Ncurses Fruit Ninja
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20WSL-lightgrey)](https://en.wikipedia.org/wiki/Unix-like)
